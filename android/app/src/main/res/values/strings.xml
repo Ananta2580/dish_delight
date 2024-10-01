@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">941295784003936</string>
+    <string name="fb_login_protocol_scheme">fb941295784003936</string>
+    <string name="facebook_client_token">fbc3377e90d7e7f23ae32f64df5288a2</string>
+    <string name="app_name">"DishDelight"</string>
+
+</resources>
